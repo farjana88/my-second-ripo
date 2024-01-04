@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.banner-container{
+    height: 100vh;
+    width: 100%;
+    background-image: url("../image/img\ 3/intro-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.service{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+
+}
+
+
+.container{
+    width: 200px;
+    border: 6px solid rgb(188, 209, 209);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    margin: 30px;
+    padding: 20px;
+
+    
+}
+.p{
+    margin-top: 10px;
+
+}
+.box-container{
+    display: flex;
+}
